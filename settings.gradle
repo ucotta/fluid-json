@@ -16,3 +16,8 @@ pluginManagement {
 }
 
 rootProject.name = "fluid-json"
+
+include ':annotation-processor'
+include ':basic'
+include ':default'
+include ':examples'

@@ -9,6 +9,6 @@
 !/.idea/runConfigurations
 !/.idea/saveactions_settings.xml
 !/.idea/vcs.xml
-/build
-/out
 .DS_Store
+build
+out
