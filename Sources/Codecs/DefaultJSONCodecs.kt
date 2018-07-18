@@ -30,6 +30,7 @@ object DefaultJSONCodecs {
 
 
 	val extended = listOf(
+		/*
 		DayOfWeekJSONCodec,
 		DurationJSONCodec,
 		InstantJSONCodec,
@@ -46,6 +47,7 @@ object DefaultJSONCodecs {
 		ZonedDateTimeJSONCodec,
 		ZoneIdJSONCodec,
 		ZoneOffsetJSONCodec
+		*/
 	)
 
 
